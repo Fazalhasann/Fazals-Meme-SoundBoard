@@ -25,7 +25,7 @@ public class SoundBoardUserInterface {
         wrapper.add(createButton("Fart", "Fart.wav", new Color(241, 196, 15)));
         wrapper.add(createButton("Be Right Back", "we will be right back.wav", new Color(230, 126, 34)));
         wrapper.add(createButton("Fahh", "fahh.wav", new Color(52, 73, 94)));
-        wrapper.add(createButton("Rizz", "rizz.wav", new Color(236, 72, 153)));
+        wrapper.add(createButton("AUGHHHH", "rizz.wav", new Color(236, 72, 153)));
         wrapper.add(createButton("FBI Open Up", "fbi open up.wav", new Color(20, 184, 166)));
 
         frame.add(wrapper);
